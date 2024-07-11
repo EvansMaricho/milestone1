@@ -52,11 +52,32 @@
  <hr>
 
 
- <h2 align="left">INSTALLATION</h3>
+ <h3 align="left">INSTALLATION</h3>
 <h4>You need account and connect to git hub to clone this repository</h4>
-1. First Clone This Repository 
+1. First Clone This Repository.
 
 `https://github.com/EvansMaricho/milestone1.git`
+2. Create a new branch named manage, if you want to manage the information.
+`git branch manage`
+
+3. Checkout to a new branch 
+`git checkout manage`
+
+4. After you done manage and edit the website with your information, Push your project to github.
+`git add .
+git commit -m done
+git push origin manage
+`
+
+5. After done you can merge into branch main/master to build.
+ `git checkout main
+git pull origin main to pull main project
+git merge manage
+git commit -m "Merge manage into main"
+git push origin main`
+
+
+<h3></h3>
 
 
 
