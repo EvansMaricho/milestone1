@@ -1,0 +1,394 @@
+.ourservice-title {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  margin-bottom: 20px;
+  font-size: 2.5em;
+  font-family: "merriweather";
+}
+
+.ourservice-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  align-content: center;
+  gap: 20px;
+  justify-items: center;
+  padding: 0px;
+  padding-bottom: 0px;
+  font-family: "merriweather";
+  font-size: 1em;
+  margin-bottom: 50px;
+}
+
+.ourservice-wrapper1 {
+  justify-content: center;
+}
+.ourservice-wrapper1 img {
+  width: 500px;
+  height: 250px;
+  object-fit: cover;
+}
+
+.ourservice-wrapper1 h3 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.ourservice-wrapper2 {
+  justify-content: center;
+}
+
+.ourservice-wrapper2 img {
+  width: 500px;
+  height: 250px;
+  object-fit: cover;
+}
+
+.ourservice-wrapper2 h3 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.ourservice-wrapper3 {
+  justify-content: center;
+}
+
+.ourservice-wrapper3 img {
+  width: 500px;
+  height: 250px;
+  object-fit: cover;
+}
+.ourservice-wrapper3 h3 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.ourservice-wrapper4 {
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.ourservice-wrapper4 img {
+  width: 500px;
+  height: 250px;
+  object-fit: cover;
+}
+
+.ourservice-wrapper4 h3 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.ourservice-wrapper5 {
+  justify-content: center;
+}
+
+.ourservice-wrapper5 img {
+  width: 500px;
+  height: 250px;
+  object-fit: cover;
+}
+
+.ourservice-wrapper5 h3 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.ourservice-wrapper6 {
+  justify-content: center;
+}
+
+.ourservice-wrapper6 img {
+  width: 500px;
+  height: 250px;
+  object-fit: cover;
+}
+.ourservice-wrapper6 h3 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.howitworks-title {
+  display: flex;
+  justify-content: center;
+  font-size: 2.5em;
+  font-family: "merriweather";
+  margin-bottom: 20px;
+  margin-top: 100px;
+}
+
+.container-frame {
+  display: flex;
+  justify-content: center;
+}
+
+.step-services {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 100px;
+  margin: 100px 50px 100px 50px;
+}
+
+.services-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.step-services h3 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  font-family: "merriweather";
+  font-size: 1.2em;
+}
+
+.title-ourproduct h3 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  font-size: 2.5em;
+  font-family: "merriweather";
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+
+.our-product {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  /* border: 1px solid; */
+  margin-bottom: 20px;
+}
+.our-product h3 {
+  justify-content: center;
+  display: flex;
+}
+
+.our-product img {
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+}
+
+.container-card {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  /* border: 1px solid; */
+  justify-content: center;
+  margin-top: 90px;
+}
+.container-card h4 h5 {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card-1 {
+  /* border: 1px solid; */
+  width: 500px;
+  height: 200px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  font-family: "merriweather";
+  font-size: 1em;
+}
+
+footer {
+  background-color: bisque;
+}
+
+.copyright {
+  width: 100%;
+  height: 200px;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  justify-items: center;
+  align-content: center;
+}
+
+.copyright h6 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  justify-items: center;
+  align-content: center;
+}
+
+@media (max-width: 720px) {
+  .ourservice-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .ourservice-wrapper1 {
+    justify-content: center;
+  }
+  .ourservice-wrapper1 img {
+    width: 250px;
+    height: 125px;
+    object-fit: cover;
+  }
+
+  .ourservice-wrapper1 h3 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .ourservice-wrapper2 {
+    justify-content: center;
+  }
+
+  .ourservice-wrapper2 img {
+    width: 250px;
+    height: 125px;
+    object-fit: cover;
+  }
+
+  .ourservice-wrapper2 h3 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .ourservice-wrapper3 {
+    justify-content: center;
+  }
+
+  .ourservice-wrapper3 img {
+    width: 250px;
+    height: 125px;
+    object-fit: cover;
+  }
+  .ourservice-wrapper3 h3 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .ourservice-wrapper4 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .ourservice-wrapper4 img {
+    width: 250px;
+    height: 125px;
+    object-fit: cover;
+  }
+
+  .ourservice-wrapper4 h3 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .ourservice-wrapper5 {
+    justify-content: center;
+  }
+
+  .ourservice-wrapper5 img {
+    width: 250px;
+    height: 125px;
+    object-fit: cover;
+  }
+
+  .ourservice-wrapper5 h3 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .ourservice-wrapper6 {
+    justify-content: center;
+  }
+
+  .ourservice-wrapper6 img {
+    width: 250px;
+    height: 125px;
+    object-fit: cover;
+  }
+  .ourservice-wrapper6 h3 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  iframe {
+    width: 400px;
+    height: 200px;
+  }
+
+  .aboutus-content h2 {
+    font-size: 2em;
+  }
+
+  .aboutus-content h3 {
+    font-size: 1.5em;
+  }
+
+  .aboutus-content p {
+    font-size: 0.7em;
+  }
+
+  .ourservice-title h3 {
+    font-size: 0.7em;
+  }
+
+  .howitworks-title h3 {
+    font-size: 0.7em;
+  }
+}
+
+@media (max-width: 400px) {
+  iframe {
+    width: 250px;
+    height: 125px;
+  }
+
+  .aboutus-content h2 {
+    font-size: 1.5em;
+  }
+
+  .aboutus-content h3 {
+    font-size: 1em;
+  }
+
+  .aboutus-content p {
+    font-size: 0.5em;
+  }
+
+  .services-wrapper h3 {
+    font-size: 0.8em;
+  }
+
+  .title-ourproduct h3 {
+    font-size: 1.5em;
+  }
+
+  .our-product h3 {
+    font-size: 1em;
+  }
+}
