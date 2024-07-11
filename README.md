@@ -2,16 +2,7 @@
 <h1 align="center">Hi 👋, GLAD TO SEE YOU AGAIN </h1>
 
 <h1 align="center">Hi 👋, I'm Muhamad Hefanda Maricho Everybody Calls Me Evan Maricho</h1>
-<h2  align="left"> I am proud to present my project—Tailoring services designed for ease and elegance of an outfit for your special event. We are dedicated to making your dream clothes come true with the touch of our professional tailors. With a focus on customer satisfaction, maintaining quality and providing a guarantee for your dream clothes. I hope you are interested in my project. </h2>
-
-
-
-
-
-
-
-
-
+<h2  align="left"> I am proud to present my project—Tailoring services designed for ease and elegance of an outfit for your special event. We are dedicated to making your dream clothes come true with the touch of our professional tailors. With a focus on customer satisfaction, maintaining quality and providing a guarantee for your dream clothes. I hope you are interested on my project. </h2>
 
 
 <h3 align="center">I have been learning Software engineering on RevoU </h3>
@@ -38,6 +29,12 @@
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evansmaricho&show_icons=true&locale=en" alt="evansmaricho" /></p>
+
+
+# STRUCTURE 📃
+<hr>
+
+
 
 
 # TABLE OF CONTENTS
