@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, GLAD TO SEE YOU AGAIN </h1>
 
 
+<h2 Hi, I'm Muhamad Hefanda Maricho. I am proud to present my project—Tailoring services designed for ease and elegance of an outfit for your special event. We are dedicated to making your dream clothes come true with the touch of our professional tailors. With a focus on customer satisfaction, maintaining quality and providing a guarantee for your dream clothes. I hope you are interested in my project. </h2>
 
 
 
@@ -41,14 +42,16 @@
 
 # TABLE OF CONTENTS
 <hr>
-#### Installation
-#### Deployment
-#### Domain Configuration
+<h3 align="left">INSTALLATION</h3>
+<h3 align="left">DEPLOYMENT</h3>
+<h3 align="left">DOMAIN CONFIGURATION</h3>
  <hr>
-First Go to https://github.com/
-<P> Login Or Sign up if you did'nt have an account </P>
-<p> commit and push your project to github or netlify if you have an netlify account
-and go to https://app.netlify.com/ Login and go to sites menu, click on add new site and choose import an existing project like on this below.
+
+
+ <h2 align="left">INSTALLATION</h3>
+First Go to [https://github.com/](https://github.com/EvansMaricho/milestone1)
+<p>Clone My Project with Open Git Terminal VScode or Gitbash and Use Or copy My code repository to CLI (Command Line Interface)
+ 
 </p>
 
  ![Screenshot (24)](https://github.com/revou-fsse-5/module-1-EvansMaricho/assets/171814289/1abc6a29-d6aa-4ad1-9b10-e0c2fa5a8ff0)
