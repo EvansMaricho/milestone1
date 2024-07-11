@@ -41,9 +41,9 @@
 
 # TABLE OF CONTENTS
 <hr>
-  #### Installation
-  #### Deployment
-  #### Domain Configuration
+#### Installation
+#### Deployment
+#### Domain Configuration
  <hr>
 First Go to https://github.com/
 <P> Login Or Sign up if you did'nt have an account </P>
