@@ -53,9 +53,13 @@
 
 
  <h2 align="left">INSTALLATION</h3>
-First Go to [https://github.com/](https://github.com/EvansMaricho/milestone1)
-<p>Clone My Project with Open Git Terminal VScode or Gitbash and Use Or copy My code repository to CLI (Command Line Interface)
-</p>
+<h4>You need account and connect to git hub to clone this repository</h4>
+1. First Clone This Repository 
+``` bash
+https://github.com/EvansMaricho/milestone1.git
+```
+
+
 
 
 
