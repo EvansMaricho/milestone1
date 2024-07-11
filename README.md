@@ -55,8 +55,25 @@
  <h2 align="left">INSTALLATION</h3>
 First Go to [https://github.com/](https://github.com/EvansMaricho/milestone1)
 <p>Clone My Project with Open Git Terminal VScode or Gitbash and Use Or copy My code repository to CLI (Command Line Interface)
- 
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  ![Screenshot (24)](https://github.com/revou-fsse-5/module-1-EvansMaricho/assets/171814289/1abc6a29-d6aa-4ad1-9b10-e0c2fa5a8ff0)
 
