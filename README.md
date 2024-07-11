@@ -33,6 +33,9 @@
 
 # STRUCTURE 📃
 <hr>
+<ul>HEADER</ul>
+ <li>LOGO</li>
+  <li>NAVBAR</li>
 
 
 
