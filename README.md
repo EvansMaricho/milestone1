@@ -33,11 +33,15 @@
 
 # STRUCTURE 📃
 <hr>
-<ul>HEADER</ul>
+1. HEADER
  <li>LOGO</li>
   <li>NAVBAR</li>
-
-
+2. Main
+ <li>About Us Section</li>
+  <li>Our Service Section</li>
+ <li>How It Works Section</li>
+ <li>Our Products Section</li>
+3. Footer
 
 
 # TABLE OF CONTENTS
