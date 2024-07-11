@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, GLAD TO SEE YOU AGAIN </h1>
 
 <h1 align="center">Hi 👋, I'm Muhamad Hefanda Maricho Everybody Calls Me Evan Maricho</h1>
-<h2 I am proud to present my project—Tailoring services designed for ease and elegance of an outfit for your special event. We are dedicated to making your dream clothes come true with the touch of our professional tailors. With a focus on customer satisfaction, maintaining quality and providing a guarantee for your dream clothes. I hope you are interested in my project. </h2>
+<h2  align="left"> I am proud to present my project—Tailoring services designed for ease and elegance of an outfit for your special event. We are dedicated to making your dream clothes come true with the touch of our professional tailors. With a focus on customer satisfaction, maintaining quality and providing a guarantee for your dream clothes. I hope you are interested in my project. </h2>
 
 
 
