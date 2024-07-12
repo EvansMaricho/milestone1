@@ -57,7 +57,8 @@
 1. First Clone This Repository.
 
 `https://github.com/EvansMaricho/milestone1.git`
-2. Create a new branch named manage, if you want to manage the information.
+
+2. Create a new branch with name "manage", if you want to manage the information.
 `git branch manage`
 
 3. Checkout to a new branch 
