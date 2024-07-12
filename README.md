@@ -1,7 +1,7 @@
 ![Screenshot (44)](https://github.com/EvansMaricho/milestone1/assets/171814289/eeff4850-13f5-4df2-be0a-1b684ba8e1e9)
 <h1 align="center">Hi 👋, GLAD TO SEE YOU AGAIN </h1>
 
-<h1 align="center">Hi 👋, I'm Muhamad Hefanda Maricho Everybody Calls Me Evan Maricho</h1>
+<h1 align="center">I'm Muhamad Hefanda Maricho Everybody Calls Me Evan Maricho</h1>
 <h2  align="left"> I am proud to present my project—Tailoring services designed for ease and elegance of an outfit for your special event. We are dedicated to making your dream clothes come true with the touch of our professional tailors. With a focus on customer satisfaction, maintaining quality and providing a guarantee for your dream clothes. I hope you are interested on my project. </h2>
 
 
